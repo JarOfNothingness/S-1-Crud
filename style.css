@@ -1,0 +1,51 @@
+#main_title{
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    letter-spacing: 2px;
+    font-weight: 500
+}
+
+.box1 h2{
+    float: left;
+}
+
+.box1 button{
+    float: right;
+}
+
+.container{
+    margin-top: 50px;
+}
+
+h6{
+    text-align: center;
+    color: red;
+}
+
+/* Ensure the dropdown button fits the text and has proper padding */
+.dropdown-toggle {
+    width: 200px; /* Adjust width as needed */
+    font-size: 16px; /* Adjust font size */
+    text-align: left; /* Align text to the left */
+}
+
+/* Style the dropdown menu */
+.dropdown-menu {
+    width: 200px; /* Ensure the dropdown menu matches the button width */
+}
+
+/* Style the dropdown items */
+.dropdown-item {
+    font-size: 16px; /* Adjust font size */
+    padding: 10px; /* Add padding for better click area */
+}
+
+/* Ensure buttons don't overlap with other elements */
+.btn {
+    margin-right: 10px; /* Space between buttons */
+}
+
+
+
